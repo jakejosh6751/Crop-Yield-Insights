@@ -2,19 +2,12 @@
 This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield efficiency.
 
 ## Key Insights
-
-Crop Performance: Some crops, such as Tomato and Carrot, show higher yields compared to others like Cotton and Sugarcane, possibly due to input efficiency.
-
-Irrigation Methods: Sprinkler and Manual irrigation appear to support higher yields, while Flood irrigation is associated with lower yield efficiency.
-
-Soil Type Impact: Farms with Loamy and Peaty soils have generally better yields than those with Clay or Silty soils.
-
-Seasonal Effects: Kharif and Zaid seasons show different yield patterns, possibly due to variations in rainfall and temperature.
-
-Input Usage: Higher fertilizer and pesticide usage does not always correlate with better yield; some crops perform well with lower inputs.
-
-Water Usage: Farms with higher water efficiency tend to achieve better yields, indicating potential for optimized irrigation strategies.
-
+- Tomato and Carrot had higher yields, while Cotton and Sugarcane were lower.
+- Sprinkler and Manual irrigation resulted in better yields than Flood irrigation.
+- Farms with Loamy and Peaty soils had higher yields than those with Clay or Silty soils.
+- Kharif and Zaid seasons showed different yield patterns, likely due to rainfall and temperature.
+- Higher fertilizer and pesticide use did not always lead to better yields.
+- Farms with better water efficiency achieved higher yields, suggesting the need for optimized irrigation.
 
 ## Recommendations
 
