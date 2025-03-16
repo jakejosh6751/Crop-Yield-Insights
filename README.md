@@ -9,7 +9,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 - Higher fertilizer and pesticide use did not always lead to better yields. There's the need to assess soils for specific nutrients need or ensure expert supervision during applications.
 
 ## Recommendations
-1. Optimize irrigation methods such as Sprinkler systems to improve efficiency.
+1. Optimize irrigation methods such as Drip and Sprinkler systems to improve efficiency.
 2. Prioritize high-yield crops like Tomato and Carrot in favourable conditions.
 3. Optimize fertilizer and pesticide application based on crop needs to reduce costs and environmental impact.
 4. Promote soil testing to match crops with the most suitable soil types.
