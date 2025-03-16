@@ -1,5 +1,5 @@
 # Crop Yield Insights
-This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield.
+This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation, soil type, fertilizer, pesticide, and seasonal variations. The objective is to identify patterns that impact crop yield.
 
 ## Key Insights
 ![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
