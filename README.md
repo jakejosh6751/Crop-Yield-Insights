@@ -7,7 +7,6 @@ This project analyzes crop yield data from various farms, exploring factors like
 - Farms with Loamy and Peaty soils had higher yields than those with Clay or Silty soils.
 - Kharif and Zaid seasons showed different yield patterns, likely due to rainfall and temperature.
 - Higher fertilizer and pesticide use did not always lead to better yields. There's the need to assess soils for specific nutrients need or endure expert supervision during applications.
-- Farms with better water efficiency achieved higher yields, suggesting the need for optimized irrigation.
 
 ## Recommendations
 
