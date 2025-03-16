@@ -10,8 +10,8 @@ This project analyzes crop yield data from various farms, exploring factors like
 
 ## Recommendations
 1. Optimize irrigation with Drip and Sprinkler systems for better efficiency.
-2. Prioritize high-yield crops like Tomato and Carrot in ideal conditions.
-3. Apply fertilizers/pesticides based on crop needs to cut costs and impact.
+2. Prioritize high-yield crops like Sugarcane, Carrot, and Tomato in ideal conditions.
+3. Apply fertilizers/pesticides base on crop needs to cut costs and impact.
 4. Promote soil testing for better crop-soil matching.
 5. Study seasonal patterns to optimize planting schedules.
 
