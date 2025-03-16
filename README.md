@@ -4,7 +4,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 ## Key Insights
 - The farmlands support a decent variety of crops with over 100 kg/acre yields.
 - While other irrigation methods prove useful, rainfall remains the best.
-- Farms with Loamy and Peaty soils had higher yields than those with Clay or Silty soils.
+- Farms with Loamy and Peaty soils had higher yields especially for sugarcane and carrots respectively.
 - Kharif and Zaid seasons showed different yield patterns, likely due to rainfall and temperature.
 - Higher fertilizer and pesticide use did not always lead to better yields. There's the need to assess soils for specific nutrients need or endure expert supervision during applications.
 
