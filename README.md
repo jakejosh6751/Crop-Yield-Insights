@@ -4,7 +4,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 ## Key Insights
 - Farmlands support diverse crops with 100+ kg/acre yields.
 - Rainfall remains the most effective irrigation method.
-- Loamy soil boosts sugarcane yield, while peaty soil favors carrots.
+- Loamy soil boosts sugarcane yield, while peaty soil favours carrots.
 - Zaid season supports a wider crop variety with strong yields.
 - More fertilizer/pesticides don’t always mean better yields—soil testing and expert supervision are key.
 
