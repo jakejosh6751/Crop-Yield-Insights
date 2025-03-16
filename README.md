@@ -24,9 +24,10 @@ The dataset contains 10 features, including "Crop_Type", "Farm_Area", "Irrigatio
 #### Pivot Table Analysis:
 Used pivot tables to analyze yield variations based on crop type, irrigation type, soil type, season, fertilizer and pesticide use.
 
+#### Header & Category Labeling:
 
 
+#### Pivot Table Calculated Fields:
 
-Comparative Analysis: Compared different crop types and input levels to identify trends.
 
-Visualization: Created charts to illustrate key insights (if applicable).
+#### Data Exploration and Visualization:
