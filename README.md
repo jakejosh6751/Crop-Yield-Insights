@@ -2,7 +2,7 @@
 This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield efficiency.
 
 ## Key Insights
-- The farmlands support a decent variety of crops with over 100 kg/acre yield.
+- The farmlands support a decent variety of crops with over 100 kg/acre yields.
 - While other irrigation methods prove useful, rainfall remains the best.
 - Farms with Loamy and Peaty soils had higher yields than those with Clay or Silty soils.
 - Kharif and Zaid seasons showed different yield patterns, likely due to rainfall and temperature.
