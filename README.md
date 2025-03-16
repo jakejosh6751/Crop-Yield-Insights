@@ -18,7 +18,10 @@ This project analyzes crop yield data from various farms, exploring factors like
 
 ## Techniques & Procedures
 
-Data Import & Cleaning: Imported raw data into Excel.
+#### Data Import and Cleaning:
+The dataset contains 10 features, including "Crop_Type", "Farm_Area", "Irrigation_Type", "Fertilizer_Used", and "Yield" among others, with 50 records. It was imported into Excel as a single table. Upon review, no missing data and no duplicate records were identified.
+
+
 
 Pivot Table Analysis: Used pivot tables to analyze yield variations based on farm size, irrigation type, soil type, fertilizer use, and season.
 
