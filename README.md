@@ -28,6 +28,11 @@ Used pivot tables to analyze yield variations based on crop type, irrigation typ
 
 
 #### Pivot Table Calculated Fields:
-
-
+- Avg Yield (kg/acre)
+  * =('Yield(tons)'/'Farm_Area(acres)')*1000
+- Avg Water Usage (m3/acre)
+  * =('Water_Usage(cubic meters)'/'Farm_Area(acres)')
+- Avg Yield (g/m3)
+  * ='Yield(tons)'/'Water_Usage(cubic meters)'*10^6
+  
 #### Data Exploration and Visualization:
