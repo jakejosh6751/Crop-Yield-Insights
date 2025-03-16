@@ -1,5 +1,5 @@
 # Crop Yield Insights
-This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield efficiency.
+This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield.
 
 ## Key Insights
 - Farmlands support diverse crops with 100+ kg/acre yields.
