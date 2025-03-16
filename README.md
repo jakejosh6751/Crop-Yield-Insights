@@ -6,7 +6,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 - While other irrigation methods prove useful, rainfall remains the best.
 - Farms with Loamy and Peaty soils had higher yields especially for sugarcane and carrots respectively.
 - The Zaid season supports a wider variety of crops with most yielding over a hundred kg/acre.
-- Higher fertilizer and pesticide use did not always lead to better yields. There's the need to assess soils for specific nutrients need or endure expert supervision during applications.
+- Higher fertilizer and pesticide use did not always lead to better yields. There's the need to assess soils for specific nutrients need or ensure expert supervision during applications.
 
 ## Recommendations
 
