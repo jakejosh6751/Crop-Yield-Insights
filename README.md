@@ -2,6 +2,8 @@
 This project analyzes crop yield data from various farms, exploring factors like farm size, irrigation type, soil type, fertilizer and pesticide use, and seasonal variations. The objective is to identify patterns that impact crop yield.
 
 ## Key Insights
+![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
+
 - Farmlands support diverse crops with 100+ kg/acre yields.
 - Rainfall remains the most effective irrigation method.
 - Loamy soil boosts sugarcane yield, while peaty soil favours carrots.
