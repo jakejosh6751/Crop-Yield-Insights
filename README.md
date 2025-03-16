@@ -21,7 +21,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 #### Data Import and Cleaning:
 The dataset contains 10 features, including "Crop_Type", "Farm_Area", "Irrigation_Type", "Fertilizer_Used", and "Yield" among others, with 50 records. It was imported into Excel as a single table. Upon review, no missing data and no duplicate records were identified.
 
-#### Pivot Tables Calculated Fields:
+#### Pivot Tables and Calculated Fields:
 Used pivot tables to analyze yield variations based on crop type, irrigation type, soil type, season, fertilizer and pesticide use.
 Added the following Calculated Fields:
 
