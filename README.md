@@ -36,3 +36,7 @@ Used pivot tables to analyze yield variations based on crop type, irrigation typ
   * ='Yield(tons)'/'Water_Usage(cubic meters)'*10^6
   
 #### Data Exploration and Visualization:
+- Bar Chart: Illustrated the average crop yield (kg/acre) by crop type, enabling a comparative analysis of productivity across different crops.
+- Column Chart: Represented the mean yield (g/m³) by irrigation method, providing insights into the efficiency of various irrigation techniques.
+- Tables: Summarized the optimal soil types and growing seasons for different crops, aiding in data-driven agricultural planning.
+- Scatter Plots: Mapped the relationship between fertilizer and pesticide application and yield, revealing patterns and potential correlations.
