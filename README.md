@@ -33,7 +33,7 @@ Used pivot tables to analyze yield variations based on crop type, irrigation typ
 - Avg Water Usage (m³/acre)
   * =('Water_Usage(cubic meters)'/'Farm_Area(acres)')
 - Avg Yield (g/m³)
-  * ='Yield(tons)'/'Water_Usage(cubic meters)'*10^6 ⁶
+  * ='Yield(tons)'/'Water_Usage(cubic meters)'*10⁶
   
 #### Data Exploration and Visualization:
 - Bar Chart: Illustrated the average crop yield (kg/acre) by crop type, enabling a comparative analysis of productivity across different crops.
