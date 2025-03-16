@@ -3,7 +3,7 @@ This project analyzes crop yield data from various farms, exploring factors like
 
 ## Key Insights
 - The farmlands support a decent variety of crops with over 100 kg/acre yield.
-- Sprinkler and Manual irrigation resulted in better yields than Flood irrigation.
+- While other irrigation methods prove useful, rainfall remains the best.
 - Farms with Loamy and Peaty soils had higher yields than those with Clay or Silty soils.
 - Kharif and Zaid seasons showed different yield patterns, likely due to rainfall and temperature.
 - Higher fertilizer and pesticide use did not always lead to better yields.
