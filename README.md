@@ -1,5 +1,5 @@
 # Crop Yield Insights
-Analyzed crop yield data to identify key productivity factors. Extracted insights to optimize farming output.
+Analyzed crop yield data to uncover key productivity factors. Extracted insights to optimize farming output.
 
 ![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
 
