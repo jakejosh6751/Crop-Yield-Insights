@@ -1,10 +1,6 @@
 # Crop Yield Insights
-Analyzed crop yield data to identify factors influencing productivity. Derived insights to optimize farming practices and improve agricultural output.
+Analyzed crop yield data to identify key productivity factors. Extracted insights to optimize farming output.
 
-
-
-
-## Key Insights
 ![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
 
 - Farmlands support diverse crops with 100+ kg/acre yields.
@@ -20,7 +16,7 @@ Analyzed crop yield data to identify factors influencing productivity. Derived i
 4. Promote soil testing for better crop-soil matching.
 5. Study seasonal patterns to optimize planting schedules.
 
-## Techniques & Procedures
+## Analysis Procedure
 
 #### Data Import and Cleaning:
 The dataset contains 10 features, including "Crop_Type", "Farm_Area", "Irrigation_Type", "Fertilizer_Used", and "Yield" among others, with 50 records. It was imported into Excel as a single table. Upon review, no missing data and no duplicate records were identified.
