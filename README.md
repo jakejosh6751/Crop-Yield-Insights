@@ -1,5 +1,7 @@
 # Crop Yield Insights
-Analyzed crop yield data to identify practices that impact crop yield.
+Analyzed crop yield data to identify factors influencing yield. Derived insights to optimize farming practices and improve agricultural output.
+
+
 
 ## Key Insights
 ![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
