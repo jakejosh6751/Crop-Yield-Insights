@@ -3,6 +3,7 @@ Analyzed crop yield data to uncover key productivity factors. Extracted insights
 
 ![crop yield report.jpg](https://github.com/jakejosh6751/Crop-Yield-Insights/blob/main/crop%20yield%20report.jpg)
 
+## Key Insights
 - Farmlands support diverse crops with 100+ kg/acre yields.
 - Rainfall remains the most effective irrigation method.
 - Loamy soil boosts sugarcane yield, while peaty soil favours carrots.
